@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Interface Developer** with experience in **Javascript**
+I'm a passionate **Interface Developer** with experience in **Javascript** from 🇮🇹
 
 <!-- - 🔭 Working on: **[current projects or side-projects]** -->
 - 🌱 Sharpening my skills on: **Python**
