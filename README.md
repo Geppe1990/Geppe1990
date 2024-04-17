@@ -6,8 +6,8 @@
 
 I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **Python**
 <!-- - 🔭 Working on: **[current projects or side-projects]** -->
+- 🌱 Currently learning: **Python**
 - 🌍 Languages: **italian, english**
 - 📫 How to reach me: **geppe1990@gmail.com**
 <!-- - ⚡ Fun fact: **[a fun fact about yourself]** -->
