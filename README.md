@@ -8,7 +8,7 @@ I'm a passionate **Interface Developer** with experience in **Javascript** from 
 
 - 🔭 Working on: **Cartier**
 - 🌱 Sharpening my skills on: **Python**
-- 🌍 I talk: **Italian, English**
+- 🌍 I speak: **Italian, English**
 - 📫 You can reach me at: **geppe1990@gmail.com**
 <!-- - ⚡ Fun fact: **[a fun fact about yourself]** -->
 
