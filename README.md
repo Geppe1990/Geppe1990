@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Interface Developer** with experience in **Javascript**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Interface Developer** with experience in **Javascript**
 
 <!-- - 🔭 Working on: **[current projects or side-projects]** -->
 - 🌱 Sharpening my skills on: **Python**
