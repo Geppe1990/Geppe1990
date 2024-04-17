@@ -22,7 +22,7 @@ I'm a passionate **Interface Developer** with experience in **Javascript**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 <!-- *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).* -->
-
+<!--
 ## Featured Projects 💻
 
 ### [Project 1 Title](project_1_link)
@@ -44,3 +44,4 @@ I'm a passionate **Interface Developer** with experience in **Javascript**
 - **[Twitter]**(your_twitter_profile_link)
 
 
+-->
