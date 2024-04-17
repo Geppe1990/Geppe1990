@@ -7,9 +7,9 @@
 I'm a passionate **Interface Developer** with experience in **Javascript**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 <!-- - 🔭 Working on: **[current projects or side-projects]** -->
-- 🌱 Currently learning: **Python**
-- 🌍 Languages: **Italian, English**
-- 📫 How to reach me: **geppe1990@gmail.com**
+- 🌱 Sharpening my skills on: **Python**
+- 🌍 I talk: **Italian, English**
+- 📫 You can reach me at: **geppe1990@gmail.com**
 <!-- - ⚡ Fun fact: **[a fun fact about yourself]** -->
 
 ## My Skills 🧠
@@ -21,7 +21,7 @@ I'm a passionate **Interface Developer** with experience in **Javascript**. I lo
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+<!-- *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).* -->
 
 ## Featured Projects 💻
 
