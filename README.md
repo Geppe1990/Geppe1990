@@ -22,6 +22,7 @@ I'm a passionate **Interface Developer** with experience in **Javascript** from 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![ExpressJs](https://img.shields.io/badge/Express%20js-000000?style=flat-square&logo=express&logoColor=white)
+![ExpressJs](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 <!-- *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).* -->
 <!--
