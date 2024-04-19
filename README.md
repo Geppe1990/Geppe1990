@@ -6,7 +6,7 @@
 
 I'm a passionate **Interface Developer** with experience in **Javascript** from 🇮🇹
 
-- 🔭 Working on: **Cartier**
+- 🔭 Working on: **Yoox & Cartier**
 - 🌱 Sharpening my skills on: **Python**
 - 🌍 I speak: **Italian, English**
 - 📫 You can reach me at: **geppe1990@gmail.com**
